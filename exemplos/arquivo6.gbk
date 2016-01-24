@@ -1,0 +1,65 @@
+LOCUS       seq1                     334 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 cgatcgatcg actagctagc atcgatctgt gtgtgtgtgc tacaagctac gatcgatcgc
+       61 gtgctagcta cgatatataa aaaaagatcg atcgactagc tagcatcgat cagctacgcg
+      121 atcgcgatcg atcgactaca tcgactagct agcatcgatc agctacgatc gatcgaccga
+      181 tcgatcgact agctagcatc gatctgtgtg tgtgtgctac aagctacgat cgatcgcgat
+      241 cgcgatcgat cgactacatc gactagctag catcgatcag ctacgatcga tcgacactag
+      301 ctagcatcga tctgtgtgtg tgtgctacaa gcta
+//
+LOCUS       seq2                     224 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 cgtgctagct acgatatata aaaaaagatc gatcgactag ctagcatcga tcagctacgc
+       61 gatcgcgatc gatcgactac atcgactagc tagcatcgat cagctacgat cgatcgaccg
+      121 tgctagctac gatatataaa aaaagatcga tcgactagct agcatcgatc agctacgatc
+      181 gatcgactag ctagcatcga tctgtgtgtg tgtgctacaa gcta
+//
+LOCUS       seq3                     282 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 cacatcgatc gatcagctag catcagatcg atcgactagc tagcatcgat cagctacgac
+       61 gatcgcgatc gatcgactac atcgactagc tagcatcgat cagctacgat cgatcgaccg
+      121 atcgcgatcg atcgactaca tcgactagct agcatcgatc agctacgatc gatcgaccgt
+      181 gctagctacg atatataaaa aaagatcgat cgactagcta gcatcgatca gctacgtcga
+      241 tcgactagct agcatcgatc tgtgtgtgtg tgctacaagc ta
+//
+LOCUS       seq4                     227 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 cgcgatcgta cgatcgatca gctacgatca atcgatcgac tagctagcat cgatcagctc
+       61 gatcgcgatc gatcgactac atcgactagc tagcatcgat cagctacgat cgatcgaccg
+      121 tgctagctac gatatataaa aaaagatcga tcgactagct agcatcgatc agctacgacg
+      181 atcgatcgac tagctagcat cgatctgtgt gtgtgtgcta caagcta
+//
+LOCUS       seq5                     211 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 cgagtgtgtg tgctatcgat cgactagcta gcatcgatca gctacgatcg atcgactagc
+       61 gatcgcgatc gatcgactac atcgactagc tagcatcgat cagctacgat cgatcgaccg
+      121 tgctagctac gatatataaa aaaagatcga tcgactagct agcatcgatc agctacgcta
+      181 gcatcgatct gtgtgtgtgt gctacaagct a
+//
+LOCUS       seq6                     216 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 cgatcgctag catcgatcga tcgatcgact agctagcatc gatcagctac gatcgatcgc
+       61 gtgctagcta cgatatataa aaaaagatcg atcgactagc tagcatcgat cagctacgcg
+      121 atcgcgatcg atcgactaca tcgactagct agcatcgatc agctacgatc gatcgacact
+      181 agctagcatc gatctgtgtg tgtgtgctac aagcta
+//
+LOCUS       seq7                     155 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+ORIGIN      
+        1 cgatcgcgat cgatcgacta catcgactag ctagcatcga tcagctacga tcgatcgacc
+       61 gtgctagcta cgatatataa aaaaagatcg atcgactagc tagcatcgat cagctacgta
+      121 gctagcatcg atctgtgtgt gtgtgctaca agcta
+//
