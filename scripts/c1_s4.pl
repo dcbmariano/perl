@@ -2,7 +2,7 @@ my $A;
 my $B;
 my $SOMA;
 
-# Realizando uma soma com Python
+# Realizando uma soma com Perl
 # Recebe o primeiro numero
 $A = 2;
  
